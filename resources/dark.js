@@ -1,14 +1,15 @@
-// ==UserScript==
-// @name          Google Voice - Dark Theme
-// @namespace     http://userstyles.org
-// @description	  A dark theme for Google Voice
-// @author        Jared Meadows
-// @homepage      https://userstyles.org/styles/172874
-// @include       https://voice.google.com*
-// @run-at        document-start
-// @version       0.20190817004657
-// ==/UserScript==
+// Based on Jared Meadows UserScript from https://userstyles.org/styles/172874
+// Raw JS at https://userstyles.org/styles/userjs/172874/google-voice-dark-theme.user.js
 (function() {var css = [
+        "/*--------------------------------------------------------------",
+        ">>>    CUSTOM",
+        "--------------------------------------------------------------*/",
+        "",
+        "/* Mat Dividers */",
+        " mat-divider {",
+        "   border-top-color: rgba(100,100,100,0.87) !important;",
+        "}",
+        "",
 	"/*--------------------------------------------------------------",
 	">>>	TOPBAR",
 	"--------------------------------------------------------------*/",
@@ -19,7 +20,7 @@
 	"}",
 	"/* .gb_Wa .gb_Xd { Try using the style selector to avoid constant class name changes */",
 	" header[role=\"banner\"] > div:nth-child(2) {",
-	"   background: #10b2a2 !important;",
+	"   background: #333333 !important;",
 	"   color: white;",
 	"}",
 	"/* hamburger menu */",
