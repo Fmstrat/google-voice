@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Google Voice
+Exec=/opt/google-voice/google-voice
+Terminal=false
+Icon=/opt/google-voice/resources/app/icon.png
+Type=Application
+GenericName=Google Voice
+Comment=Google Voice
+Categories=Network;
+StartupWMClass=google-voice-nativefier-794ae3
