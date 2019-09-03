@@ -4,8 +4,8 @@ An electron wrapped Google Voice application with light and dark themes.
 
 <table border=0 padding=1>
    <tr>
-     <td><img src="screenshots/google-voice.jpg" width=300></td>
-     <td><img src="screenshots/google-voice-dark.jpg" width=300></td>
+     <td><img src="screenshots/google-voice.png" width=300></td>
+     <td><img src="screenshots/google-voice-dark.png" width=300></td>
   </tr>
 </table>
 
