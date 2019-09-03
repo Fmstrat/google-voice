@@ -10,8 +10,7 @@ fi
 
 mkdir -p compile
 mkdir -p binaries
-cp resources/icon.png compile
-cp resources/dark.js compile
+cp resources/* compile
 chmod a+rw compile -R
 chmod a+rw binaries -R
 rm -rf binaries/*
