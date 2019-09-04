@@ -33,5 +33,5 @@ The `shortcuts/google-voice.desktop` file can be used as a shortcut from GNOME.
 
 If issues exist with the launch icon in Windows, use Rcedit from: https://github.com/electron/rcedit/releases
 ```
-rcedit-x64.exe "C:\Program Files\GoogleVoice\GoogleVoice.exe" --set-icon icon.png
+rcedit-x64.exe "C:\Program Files\GoogleVoice\GoogleVoice.exe" --set-icon resources/icon.png
 ```
