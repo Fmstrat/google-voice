@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Google Voice
-Exec=/opt/google-voice/google-voice
+Exec=/opt/google-voice/GoogleVoice
 Terminal=false
 Icon=/opt/google-voice/resources/app/icon.png
 Type=Application
